@@ -1,0 +1,7 @@
+*ubyte
+*.*
+!*.py
+!*.ipynb
+!*.txt
+!readme.md
+!.gitignore
